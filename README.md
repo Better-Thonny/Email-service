@@ -3,4 +3,9 @@ Free email gui in python. All you have to do is make sure you pip install the pa
 You also need python.
 
 pip install smtplib
+
+
+
+
+
 pip install tkinter
