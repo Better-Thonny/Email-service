@@ -12,8 +12,8 @@ whom = ""
 body = ""
 subject = ""
 def emailSend():
-    gmailaddress = "exampleBoiCaleb@gmail.com"
-    gmailpassword = "TacticalCacti"
+    gmailaddress = "Enter your email here"
+    gmailpassword = "Enter your password here"
     mailServer = smtplib.SMTP('smtp.gmail.com' , 587)
     mailServer.starttls()
     mailServer.login(gmailaddress , gmailpassword)
